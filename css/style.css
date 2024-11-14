@@ -1,8 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Updock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Updock&display=swap');
 .header_home{
     background-color: #E4E0E1;
     padding: 30px 50px;
     height: 50px;
 
+
+}
+body{
+    font-family: "Sour Gummy", sans-serif;
 }
 .header_href{
     background-color: #E4E0E1;
@@ -15,3 +22,39 @@
     color: black;
     padding-right: 50px;
 }
+.logo{
+    font-family: "Great Vibes", cursive;
+}
+.d-block{
+    padding: 20px;
+    margin: 10px;
+    display: flex;
+}
+.main{
+    display: flex;
+    text-align:right;
+    align-items: center;
+    justify-content: center;
+}
+   .card{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: rgb(57, 55, 55);
+   } 
+   .card_conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 10px;
+    padding: 30px;
+    height: 300px;
+   }
+   .title{
+    color: aqua;
+   }
+   .h1_new{
+    text-align: center;
+   }
