@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Purito Cica Clearing BB cream",
+        "price": 443 ,
+        "image": "images/BB.webp",
+        "description": "ВВ-крем з екстрактом центелли"
+      },
+      {
+        "title": "Maybelline New York Lash Sensational Sky High",
+        "price": 347,
+        "image": "images/lash.webp",
+        "description": "Maybelline New York Lash Sensational Sky High"
+      },
+      {
+        "title": "Maybelline New York Lifter Gloss",
+        "price": 238,
+        "image": "images/Lifter Gloss.webp",
+        "description": "Зволожуючий блиск для губ"
+      },
+      {
+        "title": "Pupa Luminys Silky Baked Face Powder",
+        "price": 494,
+        "image": "images/Face Powder.webp",
+        "description": "Пудра для обличчя компактна запечена "
+      }
+    
+]
